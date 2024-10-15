@@ -1,1 +1,2 @@
-utilizando o github nas aulas de 
+Utilizando o github nas aulas de GNU/Linux
+Criando e editando aquivos no github
