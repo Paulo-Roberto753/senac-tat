@@ -1,0 +1,70 @@
+TODAS AS FORMAS de instalação de Software no Linux Mint - VÍDEO COMPLETO
+https://www.youtube.com/watch?v=j2-AEUpjpdA
+
+BASH SHELL Básico com o Linux Mint 19.1 Tessa
+https://www.youtube.com/watch?v=xs1zGEBf-wc
+
+#01_ Iniciar o GNU/Linux Mint 21.3 (Virginia)
+a) DEIXAR LOGADO OS SITES: GITHUB E CHATGPT
+b) DEIXAR ABERTO OS SITES: GUIA FOCA, SS64 E AURELIO
+
+#02_ Atualizar o Sistema Operacional
+a) VOCÊ PODE USAR O: MintUpdate (Modo Gráfico)
+b) VOCÊ PODE USAR O: Terminal (Ctrl+Alt+T) e o comando: apt
+
+#03_ Conhecendo os Comandos Básicos de Arquivos e Diretórios
+a) AGUARDAR OS PROCEDIMENTOS DA AULA.
+	$	=	Usuário comum;
+	#	= 	Usuário Root.
+	~	=	(Alias) Diretório Home
+	------------------------------
+	pwd:	https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08s03.html
+	
+	ls: https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08.html#comando-ls
+	
+	ls -lha
+	. (ponto) Arquivos ou Diretório (Oculto)
+	
+	cd: https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08s02.html
+	
+	/	= Root (Raiz)
+	cd ~ =	voltar para a home
+	cd - =	voltar uma vez
+	
+	mkdir: 
+	https://www.guiafoca.org/guiaonline/inicianteintermediario/ch08s04.html
+	
+	ajuda: help
+	ajuda: man
+	
+	cd / =	subir o nível
+	cd ..
+	cd ~/SENAC
+	cd ../../ = descer nível por nível
+
+	https://aurelio.net/shell/canivete/
+	
+	> 	=	Redirecionar a saída padrão
+	echo	Imprimir na tela
+	https://www.guiafoca.org/guiaonline/inicianteintermediario/ch10s20.html
+	
+	touch:
+	https://www.guiafoca.org/guiaonline/inicianteintermediario/ch10s16.html
+
+#04_ Conhecendo os Comandos Básicos de Git
+a) AGUARDAR OS PROCEDIMENTOS DA AULA.
+
+GIT e GITHUB Básico com o Linux Mint 19.1 Tessa
+https://www.youtube.com/watch?v=hrmqRD2k5P0
+
+BÁSICO do BÁSICO de Git e Github utilizando o Linux Mint 20.3 Una x64
+https://www.youtube.com/watch?v=JDCYyjbrJu0
+
+Configuração e Integração do Git e Github com o VSCode no GNU/Linux (Linux Mint 22) e Windows 10 
+https://www.youtube.com/watch?v=VBxmsmPK60s
+	
+	git clone	(Clonar Repositórios)
+	git config	(Configurar o Git Local)
+	git config --global user.name	SEU_USUÁRIO
+	git config --global user.email	SEU_EMAIL
+	
