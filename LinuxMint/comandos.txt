@@ -1,0 +1,158 @@
+    1  ls
+    2  sudo dpkg -i code_1.94.2-1728494015_amd64.deb 
+    3  exit
+    4  mkdir PauloRoberto 
+    5  ls 
+    6  cd ~/PauloRoberto/
+    7  mkdir SESC
+    8  sl 
+    9  ls
+   10  ls 
+   11  ls
+   12  cd ~/SESC 
+   13  cd ~/PauloRoberto/SESC/
+   14  mkdir -v BEL SAN ITA 
+   15  cd BEL 
+   16  touch danca.txt 
+   17  ld
+   18  ,ls
+   19  ls
+   20  ls -lh
+   21  echo "Danças Brasileiras" > danca.txt
+   22  ls
+   23  liss
+   24  less danca.txt 
+   25  echo "Danças de salão" >> danca.txt
+   26  less danca.txt 
+   27  cd ~/PauloRoberto/
+   28  cd ~/PauloRoberto/SESC/
+   29  ls 
+   30  cd ~/PauloRoberto/SESC/SAN/
+   31  touch natacao.md
+   32  less natacao.md 
+   33  echo "crawl" >> natacao.md 
+   34  less natacao.md 
+   35  echo "Peito"  >> natacao.md 
+   36  echo "costas" >> natacao.md 
+   37  echo "Borboleta" >> natacao.md 
+   38  less natacao.md 
+   39  ls
+   40  cd ~/PauloRoberto/SESC/
+   41  ls 
+   42  cd ~/PauloRoberto/SESC/BAL
+   43  cd ~/PauloRoberto/SESC/BEL/
+   44* less natacao.
+   45* less danca.t
+   46  cd ~/PauloRoberto/SESC/ITA/
+   47  touch capoeira.sh
+   48  ls
+   49  echo -e "Meia Lua de Frente\nMeia Lua de Compasso\nPisão rodado" > capoeira.sh
+   50  less capoeira.sh 
+   51  cd ~/PauloRoberto/
+   52  mkdir SENAI
+   53  cd ~/PauloRoberto/SENAI/
+   54  mkdir BRA GUA TAT PJS 
+   55  ls -lh
+   56  cd BRA
+   57  mkdir Tornearia fresagem Soldagem  
+   58  ls -lh
+   59  cd ~/PauloRoberto/SENAI/BRA/Tornearia
+   60  touch cal_nov_2024.txt
+   61  echo "Turma A:01/11 até 30/12"
+   62  echo "Turma A:01/11 até 30/12" > cal_nov_2024.txt 
+   63  less cal_nov_2024.txt 
+   64  echo "Turma A:01/11 até 30/11" > cal_nov_2024.txt 
+   65  less cal_nov_2024.txt 
+   66  cd../
+   67  cd../ 
+   68  cd ../ 
+   69  cd fresagem/
+   70  touch cal_dez_2024.txt
+   71  ls
+   72  echo "Turma B:01/12 até 30/12" > cal_dez_2024.txt 
+   73  less cal_dez_2024.txt 
+   74  cd ../
+   75  cd Soldagem/
+   76  touch cal_jan_2025.txt
+   77  ls
+   78  echo "Turma C:01/01 até 31/01" > cal__2025.txt 
+   79  echo "Turma C:01/01 até 31/01" > cal_jan_2025.txt 
+   80  less
+   81  echo "Turma C:01/01 até 31/01" > cal_jan_2025.txt 
+   82  lass cal_jan_2025.txt 
+   83  echo "Turma C:01/01 até 31/01" > cal_jan_2025.txt 
+   84  sell cal_jan_2025.txt 
+   85  lass cal_jan_2025.txt 
+   86  less cal_jan_2025.txt 
+   87  cd ../
+   88  cd GUA/
+   89  mkdir Eletricista
+   90  cd Eletricista/
+   91  touch cal_jan_2025.txt
+   92  less cal_jan_2025.txt 
+   93  echo "Turma A:01/01 até 31/01" > cal_jan_2025.txt 
+   94  less cal_jan_2025.txt 
+   95  cd../
+   96  cd ../
+   97  cd TAT/
+   98  mkdir Drywall
+   99  ls
+  100  cd Drywall/
+  101  touch cal_jan_2025.txt
+  102  less cal_jan_2025.txt 
+  103  echo "Turma A:01/11 até 30/11" > cal_jan_2025.txt 
+  104  less cal_jan_2025.txt 
+  105  cd ../
+  106  cd PJS
+  107  cd
+  108  PauloRoberto/SENAI/TAT
+  109  PauloRoberto/SENAI/TAT/
+  110  cd PauloRoberto/SENAI/TAT/
+  111  ls 
+  112  cd PauloRoberto/SENAI/
+  113  ls
+  114  cd PauloRoberto/SENAI/
+  115  cd ../
+  116  ls 
+  117  cd PjS
+  118  cd PjS/
+  119  cd PJS/
+  120  mkdir empilhadeira 
+  121  cd Empilhadeira/
+  122  touch cal_jan_2025.sh
+  123  less
+  124  less cal_jan_2025.sh 
+  125  echo "Turma A:01/01 até 31/01" > cal_jan_2025.sh
+  126  less cal_jan_2025.sh 
+  127  cd ../
+  128  ls
+  129  cd TAT
+  130  cd Drywall/
+  131  touch cal_jan_2024.md
+  132  less cal_jan_2024.md 
+  133  echo "Turma A:01/11 até 30/11" > cal_jan_2024.md
+  134  less cal_jan_2024.md 
+  135  cd ../
+  136  cd PJS/
+  137  Empilhadeira/
+  138  cd Empilhadeira/
+  139  less cal_jan_2025.sh 
+  140  sudo apt install tree 
+  141  cd 
+  142  tree -h pauloRoberto
+  143  tree -h PauloRoberto
+  144  ls 
+  145  tree -h PauloRoberto
+  146  ls-lh
+  147  ls -lh
+  148  find . -name Imagens
+  149  mkdir -v Imagens
+  150  ls -lh
+  151  chmod 766 Imagens/
+  152  ls -lh
+  153  chmod 744 Imagens/
+  154  ls -lh
+  155  chmod 755 Imagens/
+  156  ls -lh
+  157  tree -h PauloRoberto
+  158  history > comandos.txt
