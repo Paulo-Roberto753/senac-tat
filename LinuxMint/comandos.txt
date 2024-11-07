@@ -156,3 +156,5 @@
   156  ls -lh
   157  tree -h PauloRoberto
   158  history > comandos.txt
+sudo apt update && sudo apt install hardinfo -y
+
